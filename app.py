@@ -48,11 +48,10 @@ st.caption("Corporate Marketing Intelligence & Simulation Platform")
 # -------------------------------------------------
 # LOAD DATA
 # -------------------------------------------------
-areas_df = pd.read_excel("data/areas.xlsx")
-benchmarks_df = pd.read_excel("data/industry_benchmarks.xlsx")
-influencers_df = pd.read_excel("data/influencers.xlsx")
-vendors_df = pd.read_excel("data/vendors.xlsx")
-
+areas_df = pd.read_excel("areas.xlsx")
+benchmarks_df = pd.read_excel("industry_benchmarks.xlsx")
+influencers_df = pd.read_excel("influencers.xlsx")
+vendors_df = pd.read_excel("vendors.xlsx")
 # -------------------------------------------------
 # INPUT SECTION
 # -------------------------------------------------
