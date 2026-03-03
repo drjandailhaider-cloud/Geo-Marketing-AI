@@ -1,2 +1,9 @@
 reportlab
 numpy
+streamlit
+pandas
+openpyxl
+plotly
+requests
+reportlab
+numpy
